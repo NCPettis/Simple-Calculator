@@ -19,7 +19,6 @@ A very simple calculator web app. Inputs for 2 numerical values. 4 Operands (Add
 4. Click the operand of your choosing
 5. Simple Calc will display the answer after the EQUALS
 
-The application requires an internet connection to access its external APIs. API availability and credential requirements may affect the results.
 
 
 ## Screenshots and Demo

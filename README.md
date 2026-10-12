@@ -28,4 +28,4 @@ A very simple calculator web app. Inputs for 2 numerical values. 4 Operands (Add
 ![Simple Calc application interface](img/simple-calc-screenshot.png)
 
 
-The interface displays 2 inputs for numerical values, 4 operands, space for the anser to show. 
+The interface displays 2 inputs for numerical values, 4 operands, space for the answer to show. 
